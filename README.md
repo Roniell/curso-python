@@ -1,2 +1,5 @@
-# curso python
+# Curso Python
+
+AQUI ESTA MEUS ESTUDOS DE PROGRAMAÇÃO
+
 
